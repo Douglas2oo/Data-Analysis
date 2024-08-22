@@ -45,7 +45,7 @@ path = '/sklearn multi models training & optimization/requirements & introductio
         |   |-- Transfer_Estimated_distribution.png
         |   |-- tree_KOL.png
         |   |-- tree_Transfer.png
-        |-- requirements
+        |-- requirements & introduction
             |-- Account_Level_Analysis.xlsx
             |-- Intro to DA.pptx
             |-- requirements.txt
