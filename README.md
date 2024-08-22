@@ -1,5 +1,10 @@
 # Data-Analysis
 
+## Brief Introdution
+Multi scikit-learn models training & hyperparameter optimization process. 
+
+With model performance visulization, report generation and method summary(Chinese Version).
+
 ## Data Source File
 ``` python
 path = '/sklearn multi models training & optimization/requirements & introduction/Account_Level_Analysis.xlsx' 
@@ -67,11 +72,11 @@ path = '/sklearn multi models training & optimization/requirements & introductio
 
 ## File Content
 
-### Models1.ipynb
+### Models1.ipynb & Models2.ipynb
 
 * Import Data
 * Data Pre-processing
-* **Visualization: Key Data Distribution**
+* **Visualization: Key Data Distribution (Models1.ipynb)**
 * Data Structure Modification
 * Dataset Splitting
 * Model Training
@@ -80,14 +85,14 @@ path = '/sklearn multi models training & optimization/requirements & introductio
 * Model Performance Visualization
 * Report Generation Feature
 
-### Models2.ipynb
+### model_report1.pdf & model_report2.pdf
 
-* Import Data
+* **Visualization: Key Data Distribution (model_report1.pdf)**
 * Data Pre-processing
-* Data Structure Modification
 * Dataset Splitting
-* Model Training
-* Hyperparameter Optimization
-* Model Performance Evaluation
-* Model Performance Visualization
-* Report Generation Feature
+* Model Training & Optimization Comparison
+    1. Parameters
+    2. Performance Score
+    3. Performance Visualization
+* Comparison of MSE & Average MSE
+* Comparison of Performance Score
