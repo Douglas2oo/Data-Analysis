@@ -13,8 +13,6 @@ path = '/sklearn multi models training & optimization/requirements & introductio
 ## File Structure
 ```
 |-- undefined
-    |-- package-lock.json
-    |-- package.json
     |-- README.md
     |-- sklearn multi models training & optimization
         |-- Models1.ipynb
